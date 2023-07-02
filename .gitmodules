@@ -1,0 +1,3 @@
+[submodule "rnbo.example.juce"]
+	path = rnbo.example.juce
+	url = https://github.com/yamadapc/rnbo.example.juce
